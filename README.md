@@ -1,4 +1,4 @@
-## Easy ##
+### Easy ##
 
 ![Screenshot 2025-06-29 141244](https://github.com/user-attachments/assets/1cf6839c-841c-4157-8f9f-36ca6c2275af)
 
